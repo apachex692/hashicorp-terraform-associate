@@ -4,6 +4,9 @@ Terraform is an Infrastructure as Code (IaC) tool developed by HashiCorp that en
 
 Key features include its ability to handle resource dependencies automatically, plan execution visibility through detailed previews, and support for a wide range of providers and services. Terraform has become an industry standard for infrastructure automation, particularly in cloud-native environments and DevOps practices.
 
+> [!Note]
+> This definitive guide is all you need to pass the exam. There are LLM-generated content in the notes here and there, but rest assured, I've ensured that each line is read and corrected by me. And after all, I am a Terraform Associate myself. So, you can trust that the content is accurate and reliable. If you have any questions or need further clarification, feel free to reach out to me.
+
 ## Pages
 
 1. [Introduction](./modules/introduction.md)
